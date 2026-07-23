@@ -6,7 +6,7 @@ DATA_FOLDER = "california"
 START_YEAR = 2024
 START_MONTH = 1
 END_YEAR = 2026
-END_MONTH = 5
+END_MONTH = 6
 OUTPUT_CLEAN = "cleaned_single_family_sales.csv"
 OUTPUT_COLUMNS = "column_dictionary.csv"
 
